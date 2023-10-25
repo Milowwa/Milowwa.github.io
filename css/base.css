@@ -55,7 +55,7 @@ img {
     .container {
         max-width : 1200px;
         margin: 0 auto;
-        padding: 2 rem;
+        padding: 2rem;
         
     }
 }
@@ -64,7 +64,7 @@ img {
 /* Sections */
 
 section {
-    padding: 5.5 rem 0;
+    padding: 5.5rem;
 }
 
 .header {
@@ -166,12 +166,12 @@ section {
 .hero {
     background: #8D2DDD;
     color: #fff;
-    padding:  1 rem 0 0 0;
+    padding:  1rem;
 }
 
 .hero .title {
     font-size: 5rem;
-    margin: 1,6 rem 0 0;
+    margin: 2rem;
 }
 
 .hero__item {
@@ -214,3 +214,4 @@ section {
 @media screen and (min-width:750px) {
 
 }
+

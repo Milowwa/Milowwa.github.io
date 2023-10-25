@@ -105,6 +105,8 @@ section {
 
 .socials {
     display: flex;
+    justify-content: space-between;
+    width: 50px;
 }
 
 .socials li {
@@ -112,7 +114,9 @@ section {
 }
 
 .socials .icon {
-    height: 18px;
+    height: auto;
+    width: 18px;
+
 }
 
 .burger {
